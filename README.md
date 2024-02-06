@@ -1,5 +1,3 @@
-# CPE313-Villanueva
+# CPE313
 
-Name: Villanueva, Iris L.
-
-Section: CPE313-CPE32S8
+Hi there! 
