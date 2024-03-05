@@ -2,7 +2,7 @@
 Hi there! It's Iris :sunglasses:
 * I'm currently in my ```junior year``` as a Computer Engineering student :pinched_fingers:
 
-# Overview 
+# Overview :book:
 This README serves as a guide to navigating through the various topics covered in this repository. :woman_technologist:
 ## Prelim
 * Introduction to Machine Learning and Deep Learning using Tensorflow
@@ -16,5 +16,5 @@ This README serves as a guide to navigating through the various topics covered i
 * Parallel Computing using OpenMP and MPI
 * Advanced Topics on Parallel Computing with OpenMP, MPI, and CUDA
 
-# Contacts
+# Contacts :mag:
 * Gmail: qilvillanueva@tip.edu.ph
