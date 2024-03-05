@@ -1,6 +1,20 @@
-# Hi there! It's Iris :sunglasses:
+# CPE313 - Advanced Machine Learning and Deep Learning
+Hi there! It's Iris :sunglasses:
 * I'm currently in my ```junior year``` as a Computer Engineering student :pinched_fingers:
-* I don't really have the time to code as often but hoping I do soon :dash:
-* When I have a free time, I consider it as an opportunity to sleep :zzz:
 
-## This repository is for the completion of my DataSci3 deliverables :woman_technologist:
+# Overview 
+This README serves as a guide to navigating through the various topics covered in this repository. :woman_technologist:
+## Prelim
+* Introduction to Machine Learning and Deep Learning using Tensorflow
+* Neural Networks
+* Convolutional Neural Networks and Recurrent Neural Networks
+## Midterm:
+* Object Detection
+* Time Series Analysis
+* Natural Language Processing
+## Finals
+* Parallel Computing using OpenMP and MPI
+* Advanced Topics on Parallel Computing with OpenMP, MPI, and CUDA
+
+# Contacts
+* Gmail: qilvillanueva@tip.edu.ph
