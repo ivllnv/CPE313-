@@ -8,7 +8,7 @@ This README serves as a guide to navigating through the various topics covered i
 * Introduction to Machine Learning and Deep Learning using Tensorflow
 * Neural Networks
 * Convolutional Neural Networks and Recurrent Neural Networks
-## Midterm:
+## Midterm
 * Object Detection
 * Time Series Analysis
 * Natural Language Processing
