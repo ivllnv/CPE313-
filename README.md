@@ -1,6 +1,6 @@
 # CPE313 - Advanced Machine Learning and Deep Learning
 Hi there! It's Iris :sunglasses:
-* I'm currently in my ```junior year``` as a Computer Engineering student :pinched_fingers:
+* I'm currently in my ```junior year``` as a Computer Engineering student
 
 # Overview :book:
 This README serves as a guide to navigating through the various topics covered in this repository. :woman_technologist:
